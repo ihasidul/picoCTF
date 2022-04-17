@@ -375,3 +375,4 @@ Traceback (most recent call last):
     with open(sys.argv[2], "r") as f:
 FileNotFoundError: [Errno 2] No such file or directory: 'gAAAAABgUAIWjVP_Ne1VPrHlLZKpvfaifN7qlLoN7NEzOpAl55av7sPuV8wQZj9V-6oI_x4L10O8R-b9c19INaTFrlGbT6YxQeLXd2S3FQA8HmFxU9NILpJGEtVPsGpzPAmLSsRwezRX'
 ```
+Using the file as argument did the job.
