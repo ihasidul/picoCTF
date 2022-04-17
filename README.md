@@ -26,7 +26,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 
 ### Programming Languages:
 - [Python](https://www.python.org/)
-### Unix tools
+### Unix/Linux tools
 - [Git](https://git-scm.com/)
 - [bash](https://www.gnu.org/software/bash/)
 - [cd](https://en.wikipedia.org/wiki/Cd_(command))
