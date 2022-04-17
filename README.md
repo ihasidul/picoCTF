@@ -3,7 +3,12 @@
 In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 
 ## Tools:
+
+### Programming Languages:
+- [Python](https://www.python.org/)
 ### Unix tools
+- [Git](https://git-scm.com/)
+- [bash](https://www.gnu.org/software/bash/)
 - [cd](https://en.wikipedia.org/wiki/Cd_(command))
 - [grep](https://en.wikipedia.org/wiki/Grep)
 - [tr](https://en.wikipedia.org/wiki/Tr_(Unix))
