@@ -25,3 +25,4 @@ strings -d strings | grep "pico"
 ```
 picoCTF{5tRIng5_1T_7f766a23}
 ```
+
