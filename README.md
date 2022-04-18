@@ -19,6 +19,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 - [Python Wrangling](./general-skills/python-wrangling/)
 - [Tab, Tab, Attack](./general-skills/tab-tab-attack/)
 - [Wave a flag](./general-skills/wave-a-flag/)
+- [What's a netcat?](./general-skills/whats-a-netcat/)
 
 </details>
 
