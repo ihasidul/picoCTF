@@ -14,6 +14,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 <summary>General Skills</summary>
 
 - [convertme.py](./general-skills/convertme.py/)
+- [magikarp-ground-mission](./general-skills/magikarp-ground-mission/)
 - [Nice netcat...](./general-skills/convertme.py/)
 - [Obedient Cat](./general-skills/obedient-cat/)
 - [Python Wrangling](./general-skills/python-wrangling/)
