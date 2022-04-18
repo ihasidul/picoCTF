@@ -13,6 +13,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 <details>
 <summary>General Skills</summary>
 
+- [Codebook](./general-skills/codebook/)
 - [convertme.py](./general-skills/convertme.py/)
 - [magikarp-ground-mission](./general-skills/magikarp-ground-mission/)
 - [Nice netcat...](./general-skills/convertme.py/)
