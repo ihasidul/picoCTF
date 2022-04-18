@@ -17,6 +17,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 - [Nice netcat...](./general-skills/convertme.py/)
 - [Obedient Cat](./general-skills/obedient-cat/)
 - [Python Wrangling](./general-skills/python-wrangling/)
+- [strings it](./general-skills/strings-it/)
 - [Tab, Tab, Attack](./general-skills/tab-tab-attack/)
 - [Wave a flag](./general-skills/wave-a-flag/)
 - [What's a netcat?](./general-skills/whats-a-netcat/)
