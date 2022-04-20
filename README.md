@@ -17,6 +17,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 - [convertme.py](./general-skills/convertme.py/)
 - [fixme1.py](./general-skills/fixme1.py/)
 - [fixme2.py](./general-skills/fixme2.py/)
+- [Glitch cat](./general-skills/glitch-cat/)
 - [magikarp-ground-mission](./general-skills/magikarp-ground-mission/)
 - [Nice netcat...](./general-skills/convertme.py/)
 - [Obedient Cat](./general-skills/obedient-cat/)
