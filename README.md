@@ -45,6 +45,12 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 - [file-run2](./reverse-engineering/file-run2/)
 </details>
 
+<details>
+<summary>Web Exploitation</summary>
+
+- [Inspect HTML](./web-exploitation/inspect-html/)
+</details>
+
 ## Tools:
 
 ### Image related tools
