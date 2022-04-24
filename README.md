@@ -19,6 +19,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 - [fixme2.py](./general-skills/fixme2.py/)
 - [Glitch cat](./general-skills/glitch-cat/)
 - [Hashing job app](./general-skills/hashing-job-app/)
+- [Lets Warm Up](./general-skills/lets-warm-up/)
 - [Magikarp Ground Mission](./general-skills/magikarp-ground-mission/)
 - [Nice netcat...](./general-skills/convertme.py/)
 - [Obedient Cat](./general-skills/obedient-cat/)
@@ -73,3 +74,4 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 - [tr](https://en.wikipedia.org/wiki/Tr_(Unix))
 - [tree](https://en.wikipedia.org/wiki/Tree_(command))
 - [unzip](https://linux.die.net/man/1/unzip)
+- [xxd](https://linux.die.net/man/1/xxd)
