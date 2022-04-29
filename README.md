@@ -63,9 +63,11 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 ### Programming Languages:
 - [Python](https://www.python.org/)
 ### Unix/Linux tools
+- [ar](https://linux.die.net/man/1/ar)
 - [bash](https://www.gnu.org/software/bash/)
 - [cat](https://en.wikipedia.org/wiki/Cat_(Unix))
 - [cd](https://en.wikipedia.org/wiki/Cd_(command))
+- [cpio](https://linux.die.net/man/1/cpio)
 - [cut](https://en.wikipedia.org/wiki/Cut_(Unix))
 - [file](https://en.wikipedia.org/wiki/File_(command))
 - [Git](https://git-scm.com/)
