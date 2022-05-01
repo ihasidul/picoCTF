@@ -7,6 +7,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 <summary>Forensics</summary>
 
 - [Enhance!](./forensics/enhance/)
+- [File Types](./forensics/file-types/)
 - [information](./forensics/information/)
 </details>
 
