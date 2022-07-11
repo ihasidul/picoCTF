@@ -1,7 +1,8 @@
 # picoCTF
 
 In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
-## Challenges 
+
+## Challenges
 
 <details>
 <summary>Forensics</summary>
@@ -39,7 +40,6 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 
 </details>
 
-
 <details>
 <summary>Reverse Engineering</summary>
 
@@ -56,22 +56,28 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 ## Tools:
 
 ### Image related tools
+
 - [exiftool](https://exiftool.org/)
 
 ### Networking Tools
+
 - [netcat(nc)](https://linux.die.net/man/1/nc)
 
 ### Programming Languages:
+
 - [Python](https://www.python.org/)
+
 ### Unix/Linux tools
+
 - [ar](https://linux.die.net/man/1/ar)
 - [bash](https://www.gnu.org/software/bash/)
+- [binwalk](https://manpages.ubuntu.com/manpages/bionic/en/man1/binwalk.1.html)
 - [bzip2](https://linux.die.net/man/1/bzip2)
-- [cat](https://en.wikipedia.org/wiki/Cat_(Unix))
-- [cd](https://en.wikipedia.org/wiki/Cd_(command))
+- [cat](<https://en.wikipedia.org/wiki/Cat_(Unix)>)
+- [cd](<https://en.wikipedia.org/wiki/Cd_(command)>)
 - [cpio](https://linux.die.net/man/1/cpio)
-- [cut](https://en.wikipedia.org/wiki/Cut_(Unix))
-- [file](https://en.wikipedia.org/wiki/File_(command))
+- [cut](<https://en.wikipedia.org/wiki/Cut_(Unix)>)
+- [file](<https://en.wikipedia.org/wiki/File_(command)>)
 - [Git](https://git-scm.com/)
 - [grep](https://en.wikipedia.org/wiki/Grep)
 - [gzip](https://linux.die.net/man/1/gzip)
@@ -80,8 +86,8 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 - [lzma](https://linux.die.net/man/1/lzma)
 - [lzop](https://linux.die.net/man/1/lzop)
 - [strings](https://linux.die.net/man/1/strings)
-- [tr](https://en.wikipedia.org/wiki/Tr_(Unix))
-- [tree](https://en.wikipedia.org/wiki/Tree_(command))
+- [tr](<https://en.wikipedia.org/wiki/Tr_(Unix)>)
+- [tree](<https://en.wikipedia.org/wiki/Tree_(command)>)
 - [unzip](https://linux.die.net/man/1/unzip)
 - [xxd](https://linux.die.net/man/1/xxd)
 - [xz](https://linux.die.net/man/1/xz)
