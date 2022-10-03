@@ -5,6 +5,12 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 ## Challenges
 
 <details>
+<summary>Cryptography</summary>
+
+- [Mod 26](./cryptography/mod-26/)
+</details>
+<details>
+
 <summary>Forensics</summary>
 
 - [Enhance!](./forensics/enhance/)
