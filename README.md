@@ -63,7 +63,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 
 ## Tools:
 
-### Image related tools
+### Image Related Tools
 
 - [exiftool](https://exiftool.org/)
 
