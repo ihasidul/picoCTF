@@ -99,5 +99,6 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 - [tr](<https://en.wikipedia.org/wiki/Tr_(Unix)>)
 - [tree](<https://en.wikipedia.org/wiki/Tree_(command)>)
 - [unzip](https://linux.die.net/man/1/unzip)
+- [wget](https://www.gnu.org/software/wget/)
 - [xxd](https://linux.die.net/man/1/xxd)
 - [xz](https://linux.die.net/man/1/xz)
