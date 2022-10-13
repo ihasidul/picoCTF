@@ -21,7 +21,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 
 <details>
 <summary>General Skills</summary>
-
+- [2Warm](./general-skills/2Warm/)
 - [Codebook](./general-skills/codebook/)
 - [convertme.py](./general-skills/convertme.py/)
 - [fixme1.py](./general-skills/fixme1.py/)
@@ -81,6 +81,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 
 - [ar](https://linux.die.net/man/1/ar)
 - [bash](https://www.gnu.org/software/bash/)
+- [bc](https://www.gnu.org/software/bc/)
 - [binwalk](https://manpages.ubuntu.com/manpages/bionic/en/man1/binwalk.1.html)
 - [bzip2](https://linux.die.net/man/1/bzip2)
 - [cat](<https://en.wikipedia.org/wiki/Cat_(Unix)>)
