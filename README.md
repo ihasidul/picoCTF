@@ -36,6 +36,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 - [Hashing job app](./general-skills/hashing-job-app/)
 - [Lets Warm Up](./general-skills/lets-warm-up/)
 - [Magikarp Ground Mission](./general-skills/magikarp-ground-mission/)
+- [mus1c](./general-skills/mus1c/)
 - [Nice netcat...](./general-skills/convertme.py/)
 - [Obedient Cat](./general-skills/obedient-cat/)
 - [plumbing](./general-skills/plumbing/)
