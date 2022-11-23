@@ -39,3 +39,9 @@ for num in ascii_data.split(" "):
 print("picoCTF{{{}}}".format(flag))
 
 ```
+
+### The flag
+
+```
+picoCTF{rrrocknrn0113r}
+```
