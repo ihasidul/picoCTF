@@ -26,6 +26,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 - [Bases](./general-skills/bases/)
 - [Codebook](./general-skills/codebook/)
 - [convertme.py](./general-skills/convertme.py/)
+- [First Find](./general-skills/first-find/)
 - [First Grep](./general-skills/first-grep/)
 - [fixme1.py](./general-skills/fixme1.py/)
 - [fixme2.py](./general-skills/fixme2.py/)
