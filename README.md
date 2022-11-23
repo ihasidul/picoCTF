@@ -23,6 +23,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 <summary>General Skills</summary>
 
 - [2Warm](./general-skills/2Warm/)
+- [Based](./general-skills/based/)
 - [Bases](./general-skills/bases/)
 - [Big Zip](./general-skills/big-zip/)
 - [Codebook](./general-skills/codebook/)
