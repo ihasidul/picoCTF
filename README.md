@@ -41,6 +41,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 - [runme.py](./general-skills/runme.py/)
 - [Serpentine](./general-skills/serpentine/)
 - [strings it](./general-skills/strings-it/)
+- [Static ain't always noise](./general-skills/static-aint-always-noise/)
 - [Tab, Tab, Attack](./general-skills/tab-tab-attack/)
 - [Wave a flag](./general-skills/wave-a-flag/)
 - [What's a netcat?](./general-skills/whats-a-netcat/)
