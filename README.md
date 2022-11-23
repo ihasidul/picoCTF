@@ -24,6 +24,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 
 - [2Warm](./general-skills/2Warm/)
 - [Bases](./general-skills/bases/)
+- [Big Zip](./general-skills/big-zip/)
 - [Codebook](./general-skills/codebook/)
 - [convertme.py](./general-skills/convertme.py/)
 - [First Find](./general-skills/first-find/)
