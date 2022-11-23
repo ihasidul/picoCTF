@@ -38,6 +38,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 - [Magikarp Ground Mission](./general-skills/magikarp-ground-mission/)
 - [Nice netcat...](./general-skills/convertme.py/)
 - [Obedient Cat](./general-skills/obedient-cat/)
+- [plumbing](./general-skills/plumbing/)
 - [PW Crack 1](./general-skills/pw-crack-1/)
 - [PW Crack 2](./general-skills/pw-crack-2/)
 - [PW Crack 3](./general-skills/pw-crack-3/)
