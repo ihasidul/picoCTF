@@ -22,6 +22,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 <details>
 <summary>General Skills</summary>
 
+- [1_wanna_b3_a_r0ck5tar](./general-skills/1_wanna_b3_a_r0ck5tar/)
 - [2Warm](./general-skills/2Warm/)
 - [Based](./general-skills/based/)
 - [Bases](./general-skills/bases/)
