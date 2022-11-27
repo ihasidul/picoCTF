@@ -32,6 +32,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 - [First Grep](./general-skills/first-grep/)
 - [fixme1.py](./general-skills/fixme1.py/)
 - [fixme2.py](./general-skills/fixme2.py/)
+- [flag_shop](./general-skills/flag_shop/)
 - [Glitch cat](./general-skills/glitch-cat/)
 - [Hashing job app](./general-skills/hashing-job-app/)
 - [Lets Warm Up](./general-skills/lets-warm-up/)
