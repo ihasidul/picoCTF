@@ -74,6 +74,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 - [login](./web-exploitation/login/)
 - [Who are you?](./web-exploitation/who-are-you/)
 - [WebDecode](./web-exploitation/WebDecode/)
+- [Unminify](./web-exploitation/unminify/)
 </details>
 
 ## Tools:
