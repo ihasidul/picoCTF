@@ -73,6 +73,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 - [Insp3ct0r](./web-exploitation/inspactor/)
 - [login](./web-exploitation/login/)
 - [Who are you?](./web-exploitation/who-are-you/)
+- [WebDecode](./web-exploitation/WebDecode/)
 </details>
 
 ## Tools:
@@ -93,6 +94,7 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 
 - [ar](https://linux.die.net/man/1/ar)
 - [bash](https://www.gnu.org/software/bash/)
+- [base64](https://linux.die.net/man/1/base64)
 - [bc](https://www.gnu.org/software/bc/)
 - [binwalk](https://manpages.ubuntu.com/manpages/bionic/en/man1/binwalk.1.html)
 - [bzip2](https://linux.die.net/man/1/bzip2)
