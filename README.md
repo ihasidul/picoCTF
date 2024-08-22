@@ -72,9 +72,10 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 - [Inspect HTML](./web-exploitation/inspect-html/)
 - [Insp3ct0r](./web-exploitation/inspactor/)
 - [login](./web-exploitation/login/)
+- [Unminify](./web-exploitation/unminify/)
+- [where are the robots](./web-exploitation/where-are-the-robots/)
 - [Who are you?](./web-exploitation/who-are-you/)
 - [WebDecode](./web-exploitation/WebDecode/)
-- [Unminify](./web-exploitation/unminify/)
 </details>
 
 ## Tools:
