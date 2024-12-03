@@ -69,14 +69,17 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 <details>
 <summary>Web Exploitation</summary>
 
+- [Bookmarklet](./web-exploitation/Bookmarklet/)
 - [dont-use-client-side](./web-exploitation/dont-use-client-side/)
 - [Inspect HTML](./web-exploitation/inspect-html/)
 - [Insp3ct0r](./web-exploitation/inspactor/)
+- [Local Authority](./web-exploitation/Local_Authority/)
 - [login](./web-exploitation/login/)
 - [Unminify](./web-exploitation/unminify/)
 - [WebDecode](./web-exploitation/WebDecode/)
 - [where are the robots](./web-exploitation/where-are-the-robots/)
 - [Who are you?](./web-exploitation/who-are-you/)
+
 </details>
 
 ## Tools:
