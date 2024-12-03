@@ -17,6 +17,8 @@ In this repository, I'm working on [picoCTF](https://picoctf.org/) challenges.
 - [File Types](./forensics/file-types/)
 - [information](./forensics/information/)
 - [Matryoshka doll](./forensics/matryoshka-doll/)
+- [Mob psycho](./forensics/mob-psycho/)
+
 </details>
 
 <details>
